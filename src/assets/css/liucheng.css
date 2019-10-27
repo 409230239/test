@@ -1,0 +1,14 @@
+.home-liucheng{padding-top:1rem}
+	.liucheng-box{width:75%;background:#f6c858;height:0.05rem;margin:0.3rem auto;position: relative;}
+	.liucheng-box .off1{width:0.15rem;height:0.15rem;border-radius: 0.2rem;
+	position: absolute;left:0;top:-0.06rem;background: #f6c858;}
+	.liucheng-box .off2{width:0.15rem;height:0.15rem;background: #f6c858;left:50%;margin-left:-0.1rem;position: absolute;
+	border-radius: 0.4rem;top:-0.06rem;}
+	.liucheng-box .off3{width:0.15rem;height:0.15rem;background: #f6c858;right:-0.05rem;position: absolute;
+	border-radius: 0.4rem;top:-0.06rem;}
+	.liucheng-box .cur{border:3px solid #f6c858;background: #fff;top:-0.1rem;}
+	.liucheng-txt{display: flex;text-align: center;padding:0rem 0.4rem;}
+	.liucheng-txt .txt1{float:left;color:#999;font-size:12px}
+	.liucheng-txt .txt2{flex:1;color:#999;font-size:12px}
+	.liucheng-txt .txt3{float:right;color:#999;font-size:12px}
+	.liucheng-txt .active{color:#f5b51b;font-size:14px;font-weight: bold;}
